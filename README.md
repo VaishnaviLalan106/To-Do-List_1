@@ -2,6 +2,7 @@
 
 A fun, colourful, and animated To-Do List application built using **HTML, CSS, and Vanilla JavaScript**.  
 This project includes a modern UI, smooth animations, and features like marking tasks as DONE, deleting tasks, and adding tasks using the Enter key.
+i forked my friend's project
 
 ---
 
